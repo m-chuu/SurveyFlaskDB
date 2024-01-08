@@ -1,0 +1,6 @@
+{"content_quality": "Excellent", "overall_satisfaction": "Very Satisfied", "usability": "Very Easy", "user_id": "961217"}
+{"content_quality": "Excellent", "overall_satisfaction": "Very Satisfied", "usability": "Very Easy", "user_id": ""}
+{"content_quality": "Excellent", "overall_satisfaction": "Very Satisfied", "usability": "Very Easy", "user_id": "123123"}
+{"content_quality": "Excellent", "overall_satisfaction": "Very Satisfied", "usability": "Very Easy", "user_id": ""}
+{"content_quality": "Excellent", "overall_satisfaction": "Very Satisfied", "usability": "Very Easy", "user_id": "sdsd"}
+{"content_quality": "Excellent", "overall_satisfaction": "Very Satisfied", "usability": "Very Easy", "user_id": ""}
